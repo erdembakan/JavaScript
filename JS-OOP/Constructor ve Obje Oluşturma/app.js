@@ -25,4 +25,4 @@ function Employee (name,age,salary){
 }
 
 const emp1 = new Employee("James",29,4700);
-const emp2 = new Employee("Richard",25,3000);
+const emp2 = new Employee("Richard",25,3100);
