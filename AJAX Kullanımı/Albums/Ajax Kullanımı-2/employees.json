@@ -1,0 +1,17 @@
+[
+    {
+        "name" :"Erdem Cenk Bakan",
+        "department" : "PMO",
+        "salary" : 4200
+    },
+    {
+        "name" :"Buket Mercan",
+        "department" : "Product & Marketing",
+        "salary" : 4300
+    },
+    {
+        "name" :"Aykut Çalbak",
+        "department" : "Product & Marketing",
+        "salary" : 4000
+    }
+]
